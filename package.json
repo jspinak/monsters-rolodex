@@ -5,7 +5,7 @@
   "homepage": "https://jspinak.github.io/monsters-rolodex",
   "dependencies": {
     "deploy-app": "^1.0.3",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-scripts": "3.2.0"
